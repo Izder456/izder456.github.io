@@ -8,7 +8,7 @@ thumbnail: "/images/intro.png"
 
 
 
-heyo, I'm a queer autistic adult who spend a bit too much of their time with free and open source software.
+heyo, I'm a queer autistic adult who spends a bit too much of their time with free and open source software.
 
 
 
@@ -36,7 +36,7 @@ I lurch around cemetech (dot) net's effnet irc channel under the nomer izder456
 
 ---
 
-### What this blog is for and what its not
+### What this blog is for and what it is not
 
 
 

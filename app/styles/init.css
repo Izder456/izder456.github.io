@@ -77,3 +77,8 @@ a {
   color: white;
   background-color: black;
 }
+
+.sum {
+  display: block;
+  white-space: pre-wrap;
+}

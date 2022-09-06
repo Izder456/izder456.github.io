@@ -1,18 +1,12 @@
 # Hello and welcome to my blawg
 
-
-
 heyo, I'm a queer autistic adult who spend a bit too much of their time with free and open source software.
-
-
 
 I'm a bit of a wack-o, but thats okay. Its me. Its genuine.
 
-
-
 ---
 
-###### I like to rice
+### I like to rice
 
 you can find me at reddit at u/izder456. I mess around in r/unixporn and some other reddit-y circlejerk/sh1tpost subs.
 
@@ -22,7 +16,7 @@ I lurch around cemetech (dot) net's effnet irc channel under the nomer izder456
 
 ---
 
-###### What this blog is for and what its not for
+### What this blog is for and what its not for
 
 I intend this blog to be a documentation of my tech misadventures and the likes.
 
@@ -36,10 +30,8 @@ I apologise ahead of time or something, idk.
 
 ---
 
-##### Closing Notes
+## Closing Notes
 
 read this, or something?
-
-
 
 -iz

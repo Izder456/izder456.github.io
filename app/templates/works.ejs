@@ -20,6 +20,7 @@
       <% works.reverse().map((work) => { %>
       <a href="./work/<%= work.id %>.html">
         <div class="works-content">
+          <img src="<%= work.thumbnail %>" />
           <h1><%= work.title %></h1>
         </div>
       </a>

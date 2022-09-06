@@ -1,3 +1,9 @@
+---
+title: "intropage"
+subtitle: "intro?????"
+thumbnail: "/images/intro.png"
+---
+
 # Hello and welcome to my blawg
 
 

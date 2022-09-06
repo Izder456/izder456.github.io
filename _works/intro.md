@@ -30,7 +30,7 @@ I lurch around cemetech (dot) net's effnet irc channel under the nomer izder456
 
 ---
 
-###### What this blog is for and what its not
+### What this blog is for and what its not
 
 
 

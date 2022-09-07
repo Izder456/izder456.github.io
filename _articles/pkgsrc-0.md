@@ -1,4 +1,5 @@
 ---
+id: "pkgsc-0"
 title: "NetBSD pkgsrc (linux)"
 subtitle: "NetBSD pkgsrc on gentoo"
 date: "2022/9/7"

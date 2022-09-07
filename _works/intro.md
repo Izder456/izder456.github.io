@@ -1,6 +1,6 @@
 ---
-title: "intropage"
-subtitle: "intro?????"
+title: "intro page"
+subtitle: "emerge -auUvDN IntroPage"
 thumbnail: "/images/intro.png"
 ---
 

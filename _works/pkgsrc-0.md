@@ -1,9 +1,9 @@
 ---
-id: 0
-title: "NetBSD pkgsrc 0"
+title: "NetBSD pkgsrc (linux)"
 subtitle: "NetBSD pkgsrc on gentoo"
 date: "2022/9/7"
 tags: "pkgmgr, bsd, linux, gentoo, pkgsrc, netbsd"
+thumbnail: "/images/linux.png"
 ---
 # Okay, wtf is pkgsrc and why should I care?
 

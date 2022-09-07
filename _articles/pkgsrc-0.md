@@ -1,9 +1,10 @@
 ---
-title: "Gentoo with NetBSD pkgsrc"
-subtitle: "pkgsrc on linux"
-thumbnail: "/images/linux.png"
+id: 0
+title: "NetBSD pkgsrc 0"
+subtitle: "NetBSD pkgsrc on gentoo"
+date: "2022/9/7"
+tags: "pkgmgr, bsd, linux, gentoo, pkgsrc, netbsd"
 ---
-
 # Okay, wtf is pkgsrc and why should I care?
 
 pkgsrc is a collection of BSD-style makefiles that fetch, configure, compile, and install packages using a standardised tree of files and directories.

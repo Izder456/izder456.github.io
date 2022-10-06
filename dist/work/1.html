@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>NetBSD pkgsrc (linux)</title>
+  <title>Rant ep. 1</title>
 
   <meta name="viewport"content="width=device-width,initial-scale=1">
   <meta http-equiv="X-UA-Compatible"content="ie=edge">
@@ -29,37 +29,35 @@
   <main id="main-container">
     <article id="work-container">
       <h1 id="work-title">
-        NetBSD pkgsrc (linux)
+        Rant ep. 1
       </h1>
       <h2 id="work-subtitle">
-        NetBSD pkgsrc on gentoo
+        gentoo devs: whyY
       </h2>
       <article id="work-content-container">
-        <h1>Okay, wtf is pkgsrc and why should I care?</h1>
-<p>pkgsrc is a collection of BSD-style makefiles that fetch, configure, compile, and install packages using a standardised tree of files and directories.</p>
-<p>First off, you shouldn’t <em>have</em> to care. This is me documenting the benefits of running an alternative source package manager (for me) on a source-based distribution of linux.</p>
-<p>This however is not perfect. It will never be. If you break your sh1t, I didn’t tell you to.</p>
-<p>Fair?</p>
+        <h1>Lets talk Gentoo:</h1>
+<p>Gentoo is a beautifully designed diy-type linux distribution that I’ve come to lie as of late. I like the adherence to sane defaults when needed and let the user choose otherwise as need be.</p>
+<p>Theres a package deprecation notice for a common package that I just don’t jive with</p>
 <hr>
-<h3>Why I like it</h3>
-<p>I like the BSD design of things and am kind of stubborn when it comes to a “traditional” UNIX-like paradigm. I usually use slackware or some derivative of it for that very reason.</p>
-<p>I watched a few alphanerd videos on Odysee about portage and was intruiged by Gentoo’s “do it yourself”-mantra.</p>
-<p>So, I installed it.</p>
-<p>missing some packages and not wanting to mess with portage overlays (cos the aforementioned stubborness) led me to find NetBSD pkgsrc.</p>
-<hr>
-<h3>But how do I install this, magic internet person?</h3>
-<p>as much as a RTFM joke would be rude, NetBSD’s documentation is solid.</p>
-<p>REMINDER:</p>
-<p>I am in fact, <em>not god</em>. I can’t solve every tech problem ever convcievable. This is not an invitation to spam me.</p>
-<p>seriously, RTFM, kindly.</p>
-<p>I’ll link what I’ve used here:</p>
-<p><a href="http://www.netbsd.org/docs/pkgsrc/">The pkgsrc guide</a></p>
-<p><a href="http://cdn.netbsd.org/pub/pkgsrc/current/pkgsrc/">The NetBSD Packages Collection</a></p>
-<p><a href="http://cdn.netbsd.org/pub/pkgsrc/current/pkgsrc/bootstrap/README.Linux">NetBSD pkgsrc.readme</a></p>
+<h3>Okay, netmeister2000-neckbeard, what idiocy will you spew today?</h3>
+<p>Gentoo has a package that I used to initialise my system, namely: x11-base/xorg-x11.</p>
+<p>This is a meta-package, which means that its sole purpose is to pull in other packages, and thats it.</p>
+<p>This metapackage has some (old-ish, yet still used), Xorg tools like xrandr, xset, xinput, xkill etc, that are commonly used for X11 scripting for ricers like myself</p>
+<p>Well, this package is planned to be removed from the Gentoo base-repo, next month.</p>
+<p>The standpoint I’ve seen in favor of this change has some merit, but for the end user it could potentiall be extremely annoying to fix</p>
+<p>Paraphrased:</p>
+<blockquote>
+<p>Gentoo thrives on customisability, and having a meta-package like x11-base/xorg-x11 contradicts that concept, since it includes things users may not want on their system.</p>
+</blockquote>
+<p>So what? The existence of the meta-package existing in the repos, doesn’t stop users from installing Xorg components as they wish. Just acknowlege in the handbook that x11-base/xorg-x11 isn’t
+the <em>only</em> patch, and maybe write an article about the implications of using it or not.</p>
+<p>Problem: solved</p>
+<p>It just comes of as a pseudo-modernist obsession of “it’s just a bit too easy”. This is gentoo, nothing is easy. Breakage <em>will</em> occur. This breakage is entirely unavoidable, however. Odds are,
+this change will just force ordinary users who
+dont want to or need to troubleshoot, “fix” their previosly working system, just cos some idiot upstream decided against a common user configuration.</p>
 <hr>
 <h2>Closing Notes</h2>
-<p>Shoot me a PM on xmpp if you want assistance,</p>
-<p>Its not a given that I will respond, though.</p>
+<p>but, why?</p>
 <p>-iz</p>
 
       

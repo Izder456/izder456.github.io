@@ -33,7 +33,7 @@ This metapackage has some (old-ish, yet still used), Xorg tools like xrandr, xse
 Well, this package is planned to be removed from the Gentoo base-repo, next month.
 
 
-The standpoint I've seen in favor of this change has some merit, but for the end user it could potentiall be extremely annoying to fix.
+The standpoint I've seen in favor of this change has some merit, but for the end user it could potentially be extremely annoying to fix.
 
 
 Paraphrased:
